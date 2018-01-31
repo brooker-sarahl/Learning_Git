@@ -1,1 +1,3 @@
 some interesting notes
+
+Adding new notes so that we can practice how to add and commit files.
