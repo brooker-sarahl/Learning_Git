@@ -5,4 +5,7 @@ Adding new notes so that we can practice how to add and commit files.
 Keep adding notes, this time in nano.
 
 #Actual Notes:
-You cannot overwrite some line of work if it differs between the local, and the git hub repository. This is in the merge command and can be fixed before you push everything to the remote repository.
+You cannot overwrite some line of work if it differs between the local, and the git hub repository. 
+This is in the merge command and can be fixed before you push everything to the remote repository.
+
+more important notes
